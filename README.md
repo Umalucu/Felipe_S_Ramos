@@ -7,7 +7,7 @@
 - 👯 Estou procurando colaborar em projetos conforme for adquirindo os ppara tal;
 - 🤔 Estou procurando ajuda com os meus estudos em Java, JavaScript, Python, C++, Dev Mobile; 
 - 💬 Pergunte-me sobre Design Gráfico, Equipamentos de Audio Visual, Manutenção de PC's;
-⚡ Curiosidade: Sou intusiasta em Robotica, Arduino, curto games de aviação estilo DogFights;
+- ⚡ Curiosidade: Sou intusiasta em Robotica, Arduino, curto games de aviação estilo DogFights;
 
 ## Estou aprendendo
 
