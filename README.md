@@ -12,3 +12,5 @@
 ## Estou aprendendo
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>
+![Snake animation](https://github.com/Umalucu/Felipe_S_Ramos/blob/output/github-contribution-grid-snake.svg)
+
