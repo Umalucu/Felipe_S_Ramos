@@ -15,8 +15,8 @@
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umalucu&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=55d300&text_color=FFF&border_radius=3&border_color=005900&icon_color=FF00F6&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=umalucu&line_height=25&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=55d300&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=005900&count_private=true)](https://github.com/umalucu/github-readme-stats)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=umalucu&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=55d300&text_color=FFF&border_radius=3&border_color=005900&icon_color=55d300&theme=blue-green)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=umalucu&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=55d300&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=005900&count_private=true)](https://github.com/umalucu/github-readme-stats)
 <br>
 
 <picture>
